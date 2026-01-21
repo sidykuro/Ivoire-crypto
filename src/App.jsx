@@ -43,13 +43,13 @@ function App() {
     <div className="min-h-screen bg-white">
       {/* Header */}
       <header className="fixed top-0 w-full z-50 bg-ivoire-dark/70 backdrop-blur-md border-b border-white/10">
-        <div className="container mx-auto px-6 py-8">
+        <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center">
               <img
                 src="/ivoircryp%20trans@4x.png"
                 alt="Ivoire Crypto"
-                className="h-16 sm:h-20 md:h-24 lg:h-28 w-auto"
+                className="h-12 sm:h-14 md:h-16 lg:h-18 w-auto"
                 loading="eager"
               />
             </div>
