@@ -49,7 +49,7 @@ function App() {
               <img
                 src="/ivoircryp%20trans@4x.png"
                 alt="Ivoire Crypto"
-                className="h-12 sm:h-14 md:h-16 lg:h-18 w-auto"
+                className="h-16 sm:h-20 md:h-24 lg:h-28 w-auto"
                 loading="eager"
               />
             </div>
